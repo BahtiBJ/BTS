@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BTS</string>
+    <string name="start">START</string>
+    <string name="your_balance">your Balance</string>
+    <string name="balance">%s Satoshi</string>
+    <string name="btc_balance">%s Btc</string>
+    <string name="boost">Boost</string>
+    <string name="take_btc">Take btc</string>
+    <string name="ping">Ping</string>
+    <string name="ms">ms</string>
+</resources>
